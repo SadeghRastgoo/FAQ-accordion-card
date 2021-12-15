@@ -80,13 +80,13 @@ body {
   margin: auto;
   display: block;
 
-  background: url(/images/bg-pattern-mobile.svg);
+  background: url(../images/bg-pattern-mobile.svg);
   background-repeat: no-repeat;
   background-size: contain;
 
   @media screen and(min-width: 1200px) {
     width: 100%;
-    background: url(/images/bg-pattern-desktop.svg);
+    background: url(../images/bg-pattern-desktop.svg);
     background-position: -400px -150px;
     background-repeat: no-repeat;
     background-size: 825px;
